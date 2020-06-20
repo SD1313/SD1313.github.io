@@ -15,4 +15,4 @@ Als Testbot kann ich dir nur ein Linien zeigen ;-)
 > Error 404, Text nicht gefunden
 > Oder auch schoen Error 403
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/220px-Google_2015_logo.svg.png) 
+![Alt-Text](https://avatars3.githubusercontent.com/u/47224147)
