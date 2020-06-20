@@ -11,3 +11,7 @@ Als Testbot kann ich dir nur ein Linien zeigen ;-)
 * nichts
   * er ist halt nur zur Demonstration
   * und als Beispiel
+  
+## Hier ein Zitat des Testbot's
+> Error 404, Text nicht gefunden
+> Oder auch schön: Error 403
