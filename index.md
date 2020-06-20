@@ -13,4 +13,4 @@ Als Testbot kann ich dir nur ein Linien zeigen ;-)
   * und als Beispiel
   
 > Error 404, Text nicht gefunden
-> Oder auch schön: Error 403
+> Oder auch schoen Error 403
