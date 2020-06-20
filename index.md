@@ -14,3 +14,5 @@ Als Testbot kann ich dir nur ein Linien zeigen ;-)
   
 > Error 404, Text nicht gefunden
 > Oder auch schoen Error 403
+
+![openHPI Logo](https://openhpi.azureedge.net/assets/logo_openhpi-155a11eefd46841c38fb009a2d9b84d28550a0c920fbf50b591b3aa1f7c0190c.png)
